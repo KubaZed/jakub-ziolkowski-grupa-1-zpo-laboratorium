@@ -1,0 +1,90 @@
+2026-07-27 01:05:57.778 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 7704 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:05:57.788 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:05:59.711 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.585 seconds (process running for 3.339)
+2026-07-27 01:08:47.883 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 10432 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:08:47.886 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:08:49.719 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.464 seconds (process running for 3.026)
+2026-07-27 01:14:23.286 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 10432 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:14:23.287 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:14:23.667 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.419 seconds (process running for 336.973)
+2026-07-27 01:14:50.706 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 10432 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:14:50.707 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:14:50.988 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.314 seconds (process running for 364.295)
+2026-07-27 01:15:24.821 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 10284 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:15:24.822 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:15:27.337 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 3.158 seconds (process running for 3.733)
+2026-07-27 01:15:42.201 [tomcat-handler-0] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:19:28.918 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 10284 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:19:28.919 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:19:29.302 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.418 seconds (process running for 245.7)
+2026-07-27 01:19:44.353 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 25272 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:19:44.355 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:19:46.379 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.688 seconds (process running for 3.316)
+2026-07-27 01:19:53.652 [tomcat-handler-0] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:25:32.282 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 25272 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:25:32.282 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:25:32.682 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.44 seconds (process running for 349.619)
+2026-07-27 01:25:44.959 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 20584 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:25:44.960 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:25:47.208 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.87 seconds (process running for 3.434)
+2026-07-27 01:26:03.997 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 20584 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:26:03.998 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:26:04.441 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.483 seconds (process running for 20.668)
+2026-07-27 01:26:12.271 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 26316 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 01:26:12.274 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:26:16.763 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 5.236 seconds (process running for 5.841)
+2026-07-27 01:26:17.126 [tomcat-handler-0] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:32:19.147 [tomcat-handler-8] INFO  c.project.service.ProjektServiceImpl.setProjekt:69 - REQUEST -> POST /api/projekty
+2026-07-27 01:32:19.420 [tomcat-handler-8] INFO  c.project.service.ProjektServiceImpl.setProjekt:82 - REQUEST (location) -> GET http://localhost:8080/api/projekty/2
+2026-07-27 01:32:19.535 [tomcat-handler-9] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:32:49.746 [tomcat-handler-11] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:37:51.298 [tomcat-handler-19] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:37:57.730 [tomcat-handler-21] INFO  c.project.service.ProjektServiceImpl.getProjekt:39 - REQUEST -> GET /api/projekty/1
+2026-07-27 01:38:12.941 [tomcat-handler-24] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:38:15.768 [tomcat-handler-29] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:38:23.680 [tomcat-handler-34] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:38:29.615 [tomcat-handler-36] INFO  c.project.service.ProjektServiceImpl.getProjekt:39 - REQUEST -> GET /api/projekty/1
+2026-07-27 01:38:32.799 [tomcat-handler-39] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:38:51.853 [tomcat-handler-45] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 01:38:53.690 [tomcat-handler-47] INFO  c.project.service.ProjektServiceImpl.getProjekt:39 - REQUEST -> GET /api/projekty/1
+2026-07-27 01:38:57.598 [tomcat-handler-50] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 02:15:50.144 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 23856 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:15:50.146 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:15:52.021 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.503 seconds (process running for 3.083)
+2026-07-27 02:16:51.982 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 6284 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:16:51.984 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:16:53.791 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.439 seconds (process running for 2.969)
+2026-07-27 02:17:22.021 [tomcat-handler-1] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 02:17:39.630 [tomcat-handler-3] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 02:21:05.290 [tomcat-handler-14] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 02:27:47.414 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 6284 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:27:47.415 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:27:47.815 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.443 seconds (process running for 656.994)
+2026-07-27 02:28:09.761 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 6284 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:28:09.761 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:28:10.048 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.319 seconds (process running for 679.227)
+2026-07-27 02:28:47.109 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 13900 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:28:47.111 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:28:48.933 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.433 seconds (process running for 2.973)
+2026-07-27 02:29:00.333 [tomcat-handler-0] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenci?page=0&size=10&sort=
+2026-07-27 02:29:03.189 [tomcat-handler-1] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenci?page=0&size=10&sort=
+2026-07-27 02:29:05.723 [tomcat-handler-3] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenci?page=0&size=10&sort=
+2026-07-27 02:42:33.982 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 13900 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:42:33.982 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:42:34.318 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 0.367 seconds (process running for 828.359)
+2026-07-27 02:42:46.106 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarting:54 - Starting ProjectWebAppApplication using Java 21.0.4 with PID 7196 (C:\Users\jziol\ZPO\workspace\project-web-app\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-web-app)
+2026-07-27 02:42:46.107 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStartupProfileInfo:652 - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:42:47.971 [restartedMain] INFO  c.project.ProjectWebAppApplication.logStarted:60 - Started ProjectWebAppApplication in 2.511 seconds (process running for 3.055)
+2026-07-27 02:42:53.843 [tomcat-handler-0] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:45:56.214 [tomcat-handler-5] INFO  c.project.service.ProjektServiceImpl.getProjekty:111 - REQUEST -> GET /api/projekty?page=0&size=10&sort=
+2026-07-27 02:46:01.133 [tomcat-handler-7] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:46:06.343 [tomcat-handler-9] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:46:37.945 [tomcat-handler-13] INFO  c.project.service.StudentServiceImpl.setStudent:70 - REQUEST -> POST /api/studenti
+2026-07-27 02:46:38.337 [tomcat-handler-14] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:46:47.388 [tomcat-handler-16] INFO  c.project.service.StudentServiceImpl.getStudent:40 - REQUEST -> GET /api/studenti/1
+2026-07-27 02:46:55.836 [tomcat-handler-19] INFO  c.project.service.StudentServiceImpl.setStudent:56 - REQUEST -> PUT /api/studenti/1
+2026-07-27 02:46:55.951 [tomcat-handler-20] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:47:29.477 [tomcat-handler-24] INFO  c.project.service.StudentServiceImpl.setStudent:70 - REQUEST -> POST /api/studenti
+2026-07-27 02:47:30.342 [tomcat-handler-25] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=
+2026-07-27 02:49:11.094 [tomcat-handler-31] INFO  c.project.service.StudentServiceImpl.setStudent:70 - REQUEST -> POST /api/studenti
+2026-07-27 02:49:11.257 [tomcat-handler-32] INFO  c.project.service.StudentServiceImpl.getStudenci:108 - REQUEST -> GET /api/studenti?page=0&size=10&sort=

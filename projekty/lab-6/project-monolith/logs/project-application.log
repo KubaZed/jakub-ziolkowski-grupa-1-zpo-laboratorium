@@ -1,0 +1,54 @@
+2026-08-01 21:19:27.644 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStarting(54) - Starting ProjectMonolithApplication using Java 21.0.4 with PID 25268 (C:\Users\jziol\ZPO\workspace\project-monolith\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-monolith)
+2026-08-01 21:19:27.671 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 21:19:41.141 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStarted(60) - Started ProjectMonolithApplication in 14.824 seconds (process running for 21.399)
+2026-08-01 22:11:22.556 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStarting(54) - Starting ProjectMonolithApplication using Java 21.0.4 with PID 25268 (C:\Users\jziol\ZPO\workspace\project-monolith\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-monolith)
+2026-08-01 22:11:22.557 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 22:11:23.627 [restartedMain] INFO 
+				c.project.ProjectMonolithApplication.logStarted(60) - Started ProjectMonolithApplication in 1.13 seconds (process running for 3123.886)
+2026-08-01 22:13:35.073 [main] INFO 
+				c.p.ProjectMonolithApplicationTests.logStarting(54) - Starting ProjectMonolithApplicationTests using Java 21.0.4 with PID 17924 (started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-monolith)
+2026-08-01 22:13:35.075 [main] INFO 
+				c.p.ProjectMonolithApplicationTests.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 22:13:43.541 [main] INFO 
+				c.p.ProjectMonolithApplicationTests.logStarted(60) - Started ProjectMonolithApplicationTests in 8.88 seconds (process running for 11.217)
+2026-08-01 22:13:45.618 [main] INFO 
+				c.p.c.ProjektRestControllerIT.logStarting(54) - Starting ProjektRestControllerIT using Java 21.0.4 with PID 17924 (started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-monolith)
+2026-08-01 22:13:45.623 [main] INFO 
+				c.p.c.ProjektRestControllerIT.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-08-01 22:13:47.918 [main] INFO 
+				c.p.c.ProjektRestControllerIT.logStarted(60) - Started ProjektRestControllerIT in 2.705 seconds (process running for 15.594)
+2026-08-01 22:13:48.053 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> createProjekt_whenEmptyName_returnsBadRequest
+2026-08-01 22:13:49.139 [main] INFO 
+				c.p.c.ProjektRestControllerIT.createProjekt_whenEmptyName_returnsBadRequest(186) - MethodArgumentNotValidException -> Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.Void> com.project.controller.ProjektRestController.createProjekt(com.project.model.Projekt) with 2 errors: [Field error in object 'projekt' on field 'nazwa': rejected value []; codes [Size.projekt.nazwa,Size.nazwa,Size.java.lang.String,Size]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [projekt.nazwa,nazwa]; arguments []; default message [nazwa],50,3]; default message [Nazwa musi zawierać od 3 do 50 znaków!]] [Field error in object 'projekt' on field 'nazwa': rejected value []; codes [NotBlank.projekt.nazwa,NotBlank.nazwa,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [projekt.nazwa,nazwa]; arguments []; default message [nazwa]]; default message [Pole nazwa nie może być puste!]] 
+2026-08-01 22:13:49.151 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- createProjekt_whenEmptyName_returnsBadRequest
+2026-08-01 22:13:49.212 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> updateProjekt_whenValidData_returnsOk
+2026-08-01 22:13:49.358 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- updateProjekt_whenValidData_returnsOk
+2026-08-01 22:13:49.407 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> createProjekt_whenValidData_returnsCreatedWithLocation
+2026-08-01 22:13:49.458 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- createProjekt_whenValidData_returnsCreatedWithLocation
+2026-08-01 22:13:49.504 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> getProjekty_whenAvailable_returnsPagedContent
+2026-08-01 22:13:49.749 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- getProjekty_whenAvailable_returnsPagedContent
+2026-08-01 22:13:49.796 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> getProjekt_whenValidId_returnsProjekt
+2026-08-01 22:13:49.852 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- getProjekt_whenValidId_returnsProjekt
+2026-08-01 22:13:49.976 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> getProjekt_whenInvalidId_returnsNotFound
+2026-08-01 22:13:50.048 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- getProjekt_whenInvalidId_returnsNotFound
+2026-08-01 22:13:50.127 [main] INFO 
+				c.p.c.ProjektRestControllerIT.before(256) - -- METODA -> getProjekty_withPagingParams_passesParamsToService
+2026-08-01 22:13:50.181 [main] INFO 
+				c.p.c.ProjektRestControllerIT.after(263) - <- KONIEC -- getProjekty_withPagingParams_passesParamsToService

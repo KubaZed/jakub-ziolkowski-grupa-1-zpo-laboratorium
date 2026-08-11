@@ -1,0 +1,24 @@
+2026-07-27 01:05:11.587 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.4 with PID 14704 (C:\Users\jziol\ZPO\workspace\project-rest-api\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-rest-api)
+2026-07-27 01:05:11.600 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:05:23.781 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 12.843 seconds (process running for 17.525)
+2026-07-27 01:08:09.714 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.4 with PID 5836 (C:\Users\jziol\ZPO\workspace\project-rest-api\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-rest-api)
+2026-07-27 01:08:09.717 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 01:08:21.227 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 12.587 seconds (process running for 14.158)
+2026-07-27 02:16:03.279 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.4 with PID 21700 (C:\Users\jziol\ZPO\workspace\project-rest-api\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-rest-api)
+2026-07-27 02:16:03.280 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 02:16:12.875 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 10.306 seconds (process running for 10.902)
+2026-07-27 14:54:32.017 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.4 with PID 10696 (C:\Users\jziol\ZPO\workspace\project-rest-api\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-rest-api)
+2026-07-27 14:54:32.021 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-07-27 14:54:46.392 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 15.527 seconds (process running for 24.475)

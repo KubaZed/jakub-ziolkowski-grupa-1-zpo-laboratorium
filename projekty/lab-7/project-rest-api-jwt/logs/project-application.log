@@ -1,0 +1,6 @@
+2026-08-10 17:39:47.970 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarting(54) - Starting ProjectRestApiApplication using Java 21.0.4 with PID 14744 (C:\Users\jziol\ZPO\workspace\project-rest-api-jwt\bin\main started by kziolkowski in C:\Users\jziol\ZPO\workspace\project-rest-api-jwt)
+2026-08-10 17:39:47.997 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStartupProfileInfo(652) - No active profile set, falling back to 1 default profile: "default"
+2026-08-10 17:40:02.333 [restartedMain] INFO 
+				c.project.ProjectRestApiApplication.logStarted(60) - Started ProjectRestApiApplication in 15.522 seconds (process running for 24.946)
