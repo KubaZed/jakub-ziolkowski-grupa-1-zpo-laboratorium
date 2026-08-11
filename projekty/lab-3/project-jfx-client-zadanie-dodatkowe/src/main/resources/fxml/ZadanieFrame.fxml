@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="500.0" prefWidth="750.0" xmlns="http://javafx.com/javafx/23" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.project.controller.ZadanieController">
+   <top>
+      <VBox prefHeight="60.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER_LEFT" prefHeight="60.0" prefWidth="200.0" spacing="10.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#onActionBtnDodaj" text="Dodaj zadanie" />
+                  <Button fx:id="btnPowrot" mnemonicParsing="false" onAction="#onActionBtnPowrot" text="Powrót" />
+               </children>
+               <padding>
+                  <Insets bottom="15.0" left="15.0" right="15.0" top="15.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+   <center>
+      <TableView fx:id="tblZadanie" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="colZadanieId" prefWidth="60.0" text="Id" />
+          <TableColumn fx:id="colNazwa" prefWidth="150.0" text="Nazwa" />
+          <TableColumn fx:id="colOpis" prefWidth="220.0" text="Opis" />
+          <TableColumn fx:id="colKolejnosc" prefWidth="90.0" text="Kolejność" />
+          <TableColumn fx:id="colDataUtworzenia" prefWidth="150.0" text="Data utworzenia" />
+        </columns>
+      </TableView>
+   </center>
+</BorderPane>

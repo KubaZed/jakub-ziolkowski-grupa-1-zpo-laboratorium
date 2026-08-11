@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<jpackage-state version="21.0.4" platform="windows">
+  <app-version>1.0</app-version>
+  <main-launcher>project-jfx-client-zadanie-dodatkowe</main-launcher>
+  <main-class>com.project.app.ProjectClientApplication</main-class>
+  <signed>false</signed>
+  <app-store>false</app-store></jpackage-state>
